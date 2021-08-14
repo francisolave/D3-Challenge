@@ -1,0 +1,37 @@
+.d3-tip {
+  padding: 6px;
+  font-size: 12px;
+  line-height: 1;
+  line-height: 1.5em;
+  color: rgb(253, 253, 253);
+  text-align: center;
+  text-transform: capitalize;
+  background: rgba(0, 0, 0, 0.863);
+  border-radius: 4px;
+} 
+
+.circle {
+  fill: #faeefa;
+  stroke: #db20db;
+} 
+
+.circle:hover {
+  fill: #ccbfe2;
+  stroke: #b906b9;
+  stroke-width: 4px;
+}
+.circle-text {
+  color:rgb(97, 27, 161);
+  font-weight: bold;
+}
+.y-axis {
+  color:rgb(97, 27, 161);  
+}
+.x-axis {
+  color:rgb(97, 27, 161);  
+}
+.dynamicChart {
+  display: block;
+  margin: 0;
+}
+
